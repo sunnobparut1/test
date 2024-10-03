@@ -1,5 +1,5 @@
 #include<studio.h>
 int main(){
-	print("hello hit\n");
+	print("hello git\n");
 	return 0;
 }
